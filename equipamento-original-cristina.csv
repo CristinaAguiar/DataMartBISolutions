@@ -1,5 +1,5 @@
 equipamentoPK,equipamentoNome,equipamentoDescricao,equipamentoCor,equipamentoTipo,equipamentoMoeda,equipamentoPreco
-1,MONITOR,MONITOR LCD LG 15 polegadas,PRETO,,EUR,39.00
+1,MONITOR,MONITOR LCD LG 15 polegadas,PRETO,EQUIP INFORMATICA,EUR,39.00
 2,MONITOR,MONITOR LCD ITAUTEC 17 polegadas,,EQUIP INFORMATICA,BRL,126.35
 3,MONITOR,MONITOR LCD ITAUTEC 17 polegadas,PRATA,EQUIP INFORMATICA,BRL,
 4,MONITOR,,PRATA,,BRL,106.65
